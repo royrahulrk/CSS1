@@ -1,0 +1,43 @@
+h1{
+    color: red;
+}
+h3{
+    color: rgb(211, 32, 32);
+    font-style: italic;
+    
+}
+ol{
+    color: rgb(139, 63, 8);;
+    line-height: 50px;
+
+
+}
+.a1{
+    text-decoration: line-through;
+}
+.a2{
+
+    background-color: yellow;
+}
+.a3{
+    font-style: italic;
+    text-decoration: underline;
+}
+ul{
+    letter-spacing: 5px;
+    color: rgb(139, 63, 8);
+}
+.a4{
+    background-color: yellow;
+    font-weight: bold;
+    
+}
+p{
+    color: chocolate;
+}
+a{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+    text-decoration:none;
+}
